@@ -6,3 +6,4 @@ google-cloud-language
 pytest
 pytest-django
 python-dotenv
+gunicorn
