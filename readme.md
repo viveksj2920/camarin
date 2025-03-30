@@ -101,6 +101,8 @@ Uses Gmail SMTP to notify users if their comment is flagged by moderation logic.
 ## 🌐 Deployment
 
 - [Deployed on render] (https://moderation-service-yw9r.onrender.com)
+- [Deploy on Local] Naviagte to the project folder and run Docker Compose up --build. 
+
 
 
 ## 🙏 Acknowledgements
