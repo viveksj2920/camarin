@@ -100,7 +100,7 @@ Uses Gmail SMTP to notify users if their comment is flagged by moderation logic.
 
 ## 🌐 Deployment
 
-
+- [Deployed on render] (https://moderation-service-yw9r.onrender.com)
 
 
 ## 🙏 Acknowledgements
