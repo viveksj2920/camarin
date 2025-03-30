@@ -1,0 +1,8 @@
+django
+djangorestframework
+psycopg2-binary
+djangorestframework-simplejwt
+google-cloud-language
+pytest
+pytest-django
+python-dotenv
