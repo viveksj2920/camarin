@@ -19,7 +19,6 @@ services:
              python manage.py runserver 0.0.0.0:8001"
     volumes:
       - .:/app
-      - ./scenic-setup-455312-h1-d5a2ac6a7496.json:/app/gcp-key.json 
     ports:
       - "8001:8001"
     depends_on:
